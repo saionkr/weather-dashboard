@@ -1,6 +1,5 @@
 'use client';
 
-import Head from 'next/head';
 import { useState } from 'react';
 import SearchBar from './components/SearchBar';
 import WeatherCard from './components/WeatherCard';
@@ -88,12 +87,6 @@ export default function HomePage() {
   };
 
   return (
-    <>
-    <Head>
-      <title>Weather App</title>
-      <meta name="description" content="Live Weather Dashboard with 5-Day Forecast" />
-      <link rel="icon" href="/favicon.ico" />
-    </Head>
     <main
           className={`min-h-screen flex flex-col items-center justify-start p-6 transition-all ${
             darkModeEnabled
@@ -147,6 +140,5 @@ export default function HomePage() {
             </div>
         )}
     </main>
-    </>
   );
 }
