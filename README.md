@@ -7,6 +7,7 @@ It allows users to search for any city to view its current weather, check the 5-
 
 
 Features:-
+
 Search Weather: View real-time weather information for any city.
 
 5-Day Forecast: See upcoming weather trends.
@@ -24,6 +25,7 @@ Error Handling: Displays user-friendly error messages.
 
 
 Tech Stack:-
+
 Framework: Next.js
 
 Styling: Tailwind CSS
@@ -36,6 +38,7 @@ Deployment: Vercel
 
 
 Screenshots:-
+
 Light mode:
 
 <img width="1280" alt="Screenshot 2025-04-09 at 5 18 30 PM" src="https://github.com/user-attachments/assets/ceccde16-cef4-4de4-a708-c3fb46224df9" />
