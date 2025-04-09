@@ -1,4 +1,4 @@
-Weather Dashboard
+Weather Dashboard:
 A responsive and dynamic Weather Dashboard web application built using Next.js and Tailwind CSS.
 It allows users to search for any city to view its current weather, check the 5-day forecast, toggle between light and dark themes, and quickly revisit cities through a recent search history.
 
