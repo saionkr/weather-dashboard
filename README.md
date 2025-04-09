@@ -32,3 +32,13 @@ State Management: React Hooks (useState, useEffect)
 API: OpenWeatherMap API
 
 Deployment: Vercel
+
+
+Screenshots:-
+Light mode:
+<img width="1280" alt="Screenshot 2025-04-09 at 5 18 30 PM" src="https://github.com/user-attachments/assets/ceccde16-cef4-4de4-a708-c3fb46224df9" />
+
+Dark mode:
+<img width="1277" alt="Screenshot 2025-04-09 at 5 23 05 PM" src="https://github.com/user-attachments/assets/48f74c8c-79d4-4710-8110-4180849b9f43" />
+
+
