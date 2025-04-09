@@ -88,6 +88,7 @@ export default function HomePage() {
   };
 
   return (
+    <>
     <Head>
       <title>Weather App</title>
       <meta name="description" content="Live Weather Dashboard with 5-Day Forecast" />
@@ -146,5 +147,6 @@ export default function HomePage() {
             </div>
         )}
     </main>
+    </>
   );
 }
